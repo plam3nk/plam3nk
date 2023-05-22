@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 My name is Plamen Kostov / 20 years old
+- 💬 I am from Stara Zagora, Bulgaria
+- 🌱 I’m currently learning Python in Softuni
+- 📫 How to reach me: plam3nk@gmail.com
 
 <!--
 **plam3nk/plam3nk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
